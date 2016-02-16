@@ -1,0 +1,23 @@
+{
+  "name": "magellan",
+  "version": "1.0.0",
+  "description": "travel",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucksp/magellan.git"
+  },
+  "keywords": [
+    "node",
+    "magellan"
+  ],
+  "author": "phil lucks & matt ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucksp/magellan/issues"
+  },
+  "homepage": "https://github.com/lucksp/magellan#readme"
+}
