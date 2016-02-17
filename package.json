@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/lucksp/magellan/issues"
   },
-  "homepage": "https://github.com/lucksp/magellan#readme"
+  "homepage": "https://github.com/lucksp/magellan#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
 }
